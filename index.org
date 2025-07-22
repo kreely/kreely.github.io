@@ -1,4 +1,4 @@
-#+SETUPFILE: ./notes-style.org
+#+SETUPFILE: notes-style.org
 * My Blog
 
 ** Think about what I'd like to write about

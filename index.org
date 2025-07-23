@@ -1,9 +1,14 @@
-#+SETUPFILE: notes-style.org
+#+SETUPFILE: read-the-org.setup
+#+OPTIONS: num:nil
+#+LATEX_CLASS: book
+#+LATEX_CLASS_OPTIONS: [a4paper]
+
 * My Blog
 
 ** Think about what I'd like to write about
 - Hardware topics of interest
 - Interesting programming languages
 - Interesting ways to learn new things
+- 
 ** Think about how to set it up
 Hopefully Should be able to simply link to pages in here from wherever and it will .... just work!!!

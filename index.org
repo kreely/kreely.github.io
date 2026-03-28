@@ -9,7 +9,7 @@
 - Hardware topics of interest
 - Interesting programming languages
 - Interesting ways to learn new things
-- Think about whether I could move the whole Azure website here.....
+- Think about whether I could move the whole Azure website here.
 
 ** Think about how to set it up
 Hopefully Should be able to simply link to pages in here from wherever and it will .... just work!!!
